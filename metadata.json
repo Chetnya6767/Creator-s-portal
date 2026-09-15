@@ -1,0 +1,6 @@
+{
+  "name": "Production Partner — Creative Agency & Client Portal",
+  "description": "A creator's production partner website, multi-step project onboarder, real-time client portal, payment verification, and studio management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
